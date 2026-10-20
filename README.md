@@ -74,6 +74,12 @@ MyMonero desktop v1.3.3 is the final release. It still opens wallets and sends X
 | [MyMonero not syncing](https://github.com/monero-projects/learn/blob/HEAD/how-to/mymonero-not-syncing.md) | Why the balance stops updating and what to do |
 | [All MyMonero guides](https://github.com/monero-projects/learn) | The full MyMonero help library |
 
+## On the website
+
+- [MyMonero download guide](https://mymonero.info/github/monero-projects)
+- [Is MyMonero safe?](https://mymonero.info/is-mymonero-safe)
+- [MyMonero FAQ](https://mymonero.info/faq)
+
 > [!WARNING]
 > **Nobody needs your seed to activate, upgrade or migrate a MyMonero wallet. Never share it.**
 
